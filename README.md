@@ -1,2 +1,2 @@
 # bookbot
-bookbot homework for boot.dev unit 4
+BookBot is my first project!
